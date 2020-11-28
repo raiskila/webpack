@@ -1,4 +1,4 @@
-var logLevel = "info";
+var logLevel = "warn";
 
 function dummy() {}
 
